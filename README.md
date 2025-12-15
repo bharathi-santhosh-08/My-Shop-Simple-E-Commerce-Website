@@ -31,3 +31,7 @@ Front-end beginners
 JavaScript practice
 Portfolio showcase
 Understanding e-commerce basics
+
+<img width="2586" height="2034" alt="Image" src="https://github.com/user-attachments/assets/9063c47f-9fcf-4b97-a140-62d5d047ed2d" />
+
+<img width="1348" height="634" alt="Image" src="https://github.com/user-attachments/assets/1a40c5f3-36d4-4f9a-b1f8-3961027a800f" />
